@@ -1,0 +1,1262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="8091" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="866ec7bb-df4b-4201-84f8-c4e9f0877b98" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/jt-common/target/" />
+    <ignored path="$PROJECT_DIR$/jt-manage/target/" />
+    <ignored path="$PROJECT_DIR$/jt-web/target/" />
+    <ignored path="$PROJECT_DIR$/jt-sso/target/" />
+    <ignored path="$PROJECT_DIR$/jt-cart/target/" />
+    <ignored path="$PROJECT_DIR$/jt-order/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/jt$SpringBootRun__4_.ic" NAME="SpringBootRun (4) Coverage Results" MODIFIED="1564041761420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.jt.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/jt$SpringBootRun.ic" NAME="SpringBootRun Coverage Results" MODIFIED="1564043781265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1845133170">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="31" />
+          <entry key="project.open.time.0" value="10" />
+          <entry key="project.open.time.1" value="7" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="3" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.20" value="3" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="3" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="46" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="ItemDescMapper" value="1" />
+          <entry key="class" value="11" />
+          <entry key="css" value="6" />
+          <entry key="gif" value="4" />
+          <entry key="html" value="19" />
+          <entry key="java" value="502" />
+          <entry key="jpg" value="18" />
+          <entry key="js" value="13" />
+          <entry key="json" value="5" />
+          <entry key="jsp" value="55" />
+          <entry key="png" value="27" />
+          <entry key="pom" value="1" />
+          <entry key="properties" value="34" />
+          <entry key="tld" value="1" />
+          <entry key="xml" value="64" />
+          <entry key="yml" value="30" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="11" />
+          <entry key="CSS" value="6" />
+          <entry key="HTML" value="19" />
+          <entry key="Image" value="49" />
+          <entry key="JAVA" value="502" />
+          <entry key="JSON" value="5" />
+          <entry key="JSP" value="55" />
+          <entry key="JavaScript" value="13" />
+          <entry key="Properties" value="34" />
+          <entry key="XML" value="67" />
+          <entry key="YAML" value="30" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="ItemDescMapper" value="4" />
+          <entry key="css" value="4" />
+          <entry key="dummy" value="56" />
+          <entry key="html" value="48" />
+          <entry key="java" value="17821" />
+          <entry key="js" value="1" />
+          <entry key="json" value="23" />
+          <entry key="jsp" value="12" />
+          <entry key="properties" value="315" />
+          <entry key="xml" value="367" />
+          <entry key="yml" value="193" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="4" />
+          <entry key="HTML" value="48" />
+          <entry key="JAVA" value="17821" />
+          <entry key="JSON" value="23" />
+          <entry key="JSP" value="12" />
+          <entry key="JavaScript" value="1" />
+          <entry key="PLAIN_TEXT" value="56" />
+          <entry key="Properties" value="315" />
+          <entry key="SQL" value="10" />
+          <entry key="XML" value="361" />
+          <entry key="YAML" value="193" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jt-order/src/main/java/com/jt/conf/OrderQuartzConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jt-order/src/main/java/com/jt/quartz/OrderQuartz.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="38" column="58" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jt-order/src/main/java/com/jt/SpringBootRun.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="Jsp File" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>formatDateTime</find>
+      <find>formatPrice</find>
+      <find>easyui-datagrid</find>
+      <find>format</find>
+      <find>formatp</find>
+      <find>itemCatId</find>
+      <find>cid</find>
+      <find>/user/doR</find>
+      <find>/user/dore</find>
+      <find>/user/query</find>
+      <find>Cart</find>
+      <find>order/create</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/jt-web/src/main/webapp/testJS.html" />
+        <option value="$PROJECT_DIR$/jt-manage/src/main/webapp/test.html" />
+        <option value="$PROJECT_DIR$/jt-web/src/main/webapp/test.html" />
+        <option value="$PROJECT_DIR$/jt-manage/src/main/webapp/test.json" />
+        <option value="$PROJECT_DIR$/jt-web/src/main/webapp/JSONP.html" />
+        <option value="$PROJECT_DIR$/jt-sso/pom.xml" />
+        <option value="$PROJECT_DIR$/jt-sso/src/main/resources/properties/redis.properties" />
+        <option value="$PROJECT_DIR$/jt-common/src/main/java/com/jt/pojo/User.java" />
+        <option value="$PROJECT_DIR$/jt-sso/src/main/java/com/jt/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/jt-sso/src/main/java/com/jt/service/UserService.java" />
+        <option value="$PROJECT_DIR$/jt-sso/src/main/java/com/jt/service/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/jt-manage/src/main/java/com/jt/controller/web/JSONPController.java" />
+        <option value="$PROJECT_DIR$/jt-sso/src/main/java/com/jt/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/jt-sso/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/jt-web/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/jt-web/src/main/java/com/jt/SpringBootRun.java" />
+        <option value="$PROJECT_DIR$/jt-common/src/main/java/com/jt/service/DubboUserService.java" />
+        <option value="$PROJECT_DIR$/jt-sso/src/main/java/com/jt/service/impl/DubboUserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/jt-sso/src/main/java/com/jt/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/jt-web/src/main/java/com/jt/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/jt-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/jt-cart/src/main/java/com/jt/App.java" />
+        <option value="$PROJECT_DIR$/jt-cart/src/main/java/com/jt/SpringBootRun.java" />
+        <option value="$PROJECT_DIR$/jt-cart/src/main/java/com/jt/controller/controller.java" />
+        <option value="$PROJECT_DIR$/jt-cart/src/main/java/com/jt/mapper/CartMapper.java" />
+        <option value="$PROJECT_DIR$/jt-cart/src/main/java/com/jt/service/impl/CartServiceImpl.java" />
+        <option value="$PROJECT_DIR$/jt-cart/src/main/java/com/jt/controller/CartController.java" />
+        <option value="$PROJECT_DIR$/jt-cart/src/main/resources/mybatis/mappers/CartMapper.xml" />
+        <option value="$PROJECT_DIR$/jt-common/src/main/java/com/jt/pojo/Cart.java" />
+        <option value="$PROJECT_DIR$/jt-common/src/main/java/com/jt/service/DubboCartService.java" />
+        <option value="$PROJECT_DIR$/jt-cart/src/main/java/com/jt/service/impl/DubboCartServiceImpl.java" />
+        <option value="$PROJECT_DIR$/jt-web/src/main/java/com/jt/config/MvcConfigurer.java" />
+        <option value="$PROJECT_DIR$/jt-web/src/main/java/com/jt/util/UserThreadLocal.java" />
+        <option value="$PROJECT_DIR$/jt-web/src/main/java/com/jt/intercepter/UserInterceptor.java" />
+        <option value="$PROJECT_DIR$/jt-order/pom.xml" />
+        <option value="$PROJECT_DIR$/jt-order/src/main/java/com/jt/mapper/OrderMapper.java" />
+        <option value="$PROJECT_DIR$/jt-order/src/main/java/com/jt/mapper/OrderItemMapper.java" />
+        <option value="$PROJECT_DIR$/jt-order/src/main/java/com/jt/mapper/OrderShippingMapper.java" />
+        <option value="$PROJECT_DIR$/jt-cart/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/jt-order/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/jt-order/src/main/resources/mybatis/mappers/OrderItemMapper.xml" />
+        <option value="$PROJECT_DIR$/jt-order/src/main/resources/mybatis/mappers/OrderMapper.xml" />
+        <option value="$PROJECT_DIR$/jt-order/src/main/resources/mybatis/mappers/OrderShippingMapper.xml" />
+        <option value="$PROJECT_DIR$/jt-web/src/main/java/com/jt/controller/CartController.java" />
+        <option value="$PROJECT_DIR$/jt-web/src/main/java/com/jt/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/jt-common/src/main/java/com/jt/service/DubboOrderService.java" />
+        <option value="$PROJECT_DIR$/jt-order/src/main/java/com/jt/service/impl/DubboOrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/jt-order/src/main/java/com/jt/conf/OrderQuartzConfig.java" />
+        <option value="$PROJECT_DIR$/jt-order/src/main/java/com/jt/quartz/OrderQuartz.java" />
+        <option value="$PROJECT_DIR$/jt-order/src/main/java/com/jt/SpringBootRun.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="mavenHome" value="D:/software/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\software\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="jt" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="jt" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-491" />
+    <option name="y" value="23" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>EncapsulationJava</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>SetupSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>Spring BatchSpring</id>
+          </State>
+          <State>
+            <id>Spring BootSpring</id>
+          </State>
+          <State>
+            <id>Spring CloudSpring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring DataSpring</id>
+          </State>
+          <State>
+            <id>Spring IntegrationSpring</id>
+          </State>
+          <State>
+            <id>Spring MVCSpring</id>
+          </State>
+          <State>
+            <id>Spring OSGiSpring</id>
+          </State>
+          <State>
+            <id>Spring SecuritySpring</id>
+          </State>
+          <State>
+            <id>Spring Web FlowSpring</id>
+          </State>
+          <State>
+            <id>Spring Web ServicesSpring</id>
+          </State>
+          <State>
+            <id>Spring WebSocketSpring</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringBootApplicationYaml</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jt" type="462c0819:PsiDirectoryNode" />
+              <item name="jt-order" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jt" type="462c0819:PsiDirectoryNode" />
+              <item name="jt-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jt" type="462c0819:PsiDirectoryNode" />
+              <item name="jt-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jt" type="462c0819:PsiDirectoryNode" />
+              <item name="jt-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jt" type="462c0819:PsiDirectoryNode" />
+              <item name="jt-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jt" type="462c0819:PsiDirectoryNode" />
+              <item name="jt-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jt" type="462c0819:PsiDirectoryNode" />
+              <item name="jt-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jt" type="462c0819:PsiDirectoryNode" />
+              <item name="conf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jt" type="462c0819:PsiDirectoryNode" />
+              <item name="jt-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jt" type="462c0819:PsiDirectoryNode" />
+              <item name="quartz" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="/user/doRegister&#9;null&#9;null&#10;Signa&#9;FILE&#9;jar://D:/maven/repository/org/aspectj/aspectjweaver/1.9.2/aspectjweaver-1.9.2.jar!/org/aspectj/lang/Signature.class" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564055189011" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/jt-manage/src/main/java/com" />
+    <property name="last_opened_file_path" value="D:/maven/repository/redis/clients/jedis/2.9.1/jedis-2.9.1-javadoc.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ideaProjects\jt\jt-manage\src\main" />
+      <recent name="D:\ideaProjects\jt\jt-manage\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.jt" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jt.config" />
+      <recent name="com.jt" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaProjects\jt\jt-order\src\main\java\com\jt" />
+      <recent name="D:\ideaProjects\jt\jt-order\src\main\resources\mybatis\mappers" />
+      <recent name="D:\ideaProjects\jt\jt-order" />
+      <recent name="D:\ideaProjects\jt\jt-common\src\main\java\com\jt\pojo" />
+      <recent name="D:\ideaProjects\jt\jt-cart\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringBootRun (4)">
+    <configuration name="SpringBootRun (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="jt-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jt.SpringBootRun" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootRun (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="jt-sso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jt.SpringBootRun" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootRun (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="jt-cart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jt.SpringBootRun" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootRun (4)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="jt-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jt.SpringBootRun" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootRun" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jt-manage" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jt.SpringBootRun" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.SpringBootRun" />
+      <item itemvalue="Spring Boot.SpringBootRun (1)" />
+      <item itemvalue="Spring Boot.SpringBootRun (2)" />
+      <item itemvalue="Spring Boot.SpringBootRun (3)" />
+      <item itemvalue="Spring Boot.SpringBootRun (4)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpringBootRun (4)" />
+        <item itemvalue="Spring Boot.SpringBootRun (1)" />
+        <item itemvalue="Spring Boot.SpringBootRun (3)" />
+        <item itemvalue="Spring Boot.SpringBootRun (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="866ec7bb-df4b-4201-84f8-c4e9f0877b98" name="Default Changelist" comment="" />
+      <created>1562409631371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562409631371</updated>
+      <workItem from="1562409633920" duration="733000" />
+      <workItem from="1562410416172" duration="2124000" />
+      <workItem from="1562412715548" duration="238000" />
+      <workItem from="1562413216455" duration="2662000" />
+      <workItem from="1562891489694" duration="1271000" />
+      <workItem from="1562892792834" duration="5391000" />
+      <workItem from="1562898268069" duration="4000" />
+      <workItem from="1562898409530" duration="2234000" />
+      <workItem from="1562900912654" duration="458000" />
+      <workItem from="1562901431694" duration="10000" />
+      <workItem from="1562901450895" duration="95000" />
+      <workItem from="1562901611618" duration="359000" />
+      <workItem from="1562902072785" duration="2973000" />
+      <workItem from="1562912115219" duration="15796000" />
+      <workItem from="1562933834859" duration="25483000" />
+      <workItem from="1563072283355" duration="1783000" />
+      <workItem from="1563158843733" duration="6695000" />
+      <workItem from="1563172362102" duration="3516000" />
+      <workItem from="1563175963571" duration="376000" />
+      <workItem from="1563176450095" duration="252000" />
+      <workItem from="1563176740285" duration="1466000" />
+      <workItem from="1563178504069" duration="629000" />
+      <workItem from="1563179600587" duration="6500000" />
+      <workItem from="1563236943776" duration="248000" />
+      <workItem from="1563240964712" duration="3391000" />
+      <workItem from="1563245172602" duration="252000" />
+      <workItem from="1563245428578" duration="183000" />
+      <workItem from="1563245614980" duration="191000" />
+      <workItem from="1563246045863" duration="6452000" />
+      <workItem from="1563265959288" duration="5928000" />
+      <workItem from="1563323289525" duration="2401000" />
+      <workItem from="1563325851749" duration="25785000" />
+      <workItem from="1563409725688" duration="9532000" />
+      <workItem from="1563496887324" duration="10587000" />
+      <workItem from="1563522268993" duration="10981000" />
+      <workItem from="1563589354122" duration="11716000" />
+      <workItem from="1563671265831" duration="12549000" />
+      <workItem from="1563759614488" duration="38000" />
+      <workItem from="1563778215223" duration="6657000" />
+      <workItem from="1563856193317" duration="17296000" />
+      <workItem from="1563929546034" duration="15594000" />
+      <workItem from="1564035810327" duration="8016000" />
+      <workItem from="1564044110960" duration="6062000" />
+      <workItem from="1564053752629" duration="122000" />
+      <workItem from="1564053977327" duration="1810000" />
+      <workItem from="1564101124583" duration="600000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestRedisSuper_testSentinels - 2019.07.18 at 14h 39m 12s.xml">
+      <configuration name="TestRedisSuper.testSentinels" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRedisSuper_testCluster - 2019.07.18 at 19h 07m 33s.xml">
+      <configuration name="TestRedisSuper.testCluster" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestHttpClient_testHttpClient - 2019.07.19 at 19h 01m 00s.xml">
+      <configuration name="TestHttpClient.testHttpClient" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestHttpClient_testHttpClient - 2019.07.19 at 19h 02m 29s.xml">
+      <configuration name="TestHttpClient.testHttpClient" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestHttpClient_testHttpClient - 2019.07.19 at 19h 03m 41s.xml">
+      <configuration name="TestHttpClient.testHttpClient" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestHttpClient_testHttpClient - 2019.07.19 at 19h 04m 42s.xml">
+      <configuration name="TestHttpClient.testHttpClient" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSpringbootHttpClient_testHttpClientService - 2019.07.20 at 11h 12m 14s.xml">
+      <configuration name="TestSpringbootHttpClient.testHttpClientService" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSpringbootHttpClient_testHttpClientService - 2019.07.20 at 11h 13m 53s.xml">
+      <configuration name="TestSpringbootHttpClient.testHttpClientService" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSpringbootHttpClient_testHttpClientService - 2019.07.20 at 11h 15m 02s.xml">
+      <configuration name="TestSpringbootHttpClient.testHttpClientService" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSpringbootHttpClient_testHttpClientService - 2019.07.20 at 13h 57m 48s.xml">
+      <configuration name="TestSpringbootHttpClient.testHttpClientService" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="237439000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49785408" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.50214595" side_tool="true" weight="0.2228145" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32939914" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.31223175" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32939914" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32939914" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.28969958" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32939914" />
+      <window_info anchor="bottom" id="Problems" order="10" weight="0.32939914" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32939914" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="14" weight="0.32939914" />
+      <window_info anchor="right" x="0" y="0" width="434" height="866" id="Documentation" order="0" side_tool="true" weight="0.32995737" />
+      <window_info anchor="right" id="Maven Projects" order="1" weight="0.21908316" />
+      <window_info anchor="right" id="Bean Validation" order="2" weight="0.32995737" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.3496802" />
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32995737" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Coverage" order="11" side_tool="true" weight="0.25586355" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49785408" visible="true" weight="0.2563966" />
+      <window_info id="Structure" order="1" sideWeight="0.50214595" side_tool="true" weight="0.2228145" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32939914" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.2671674" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39914164" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32939914" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32939914" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.28969958" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32939914" />
+      <window_info anchor="bottom" id="Problems" order="10" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="14" />
+      <window_info anchor="right" x="0" y="0" width="434" height="866" id="Documentation" order="0" side_tool="true" weight="0.32995737" />
+      <window_info anchor="right" id="Maven Projects" order="1" weight="0.21908316" />
+      <window_info anchor="right" id="Bean Validation" order="2" weight="0.32995737" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.3496802" />
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32995737" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/maven/repository/redis/clients/jedis/2.9.1/jedis-2.9.1.jar!/redis/clients/jedis/Jedis.class</url>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jt-web/src/main/java/com/jt/controller/OrderController.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/jt-common/src/main/java/com/jt/pojo/Cart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/repository/org/springframework/spring-webmvc/5.1.5.RELEASE/spring-webmvc-5.1.5.RELEASE-sources.jar!/org/springframework/web/servlet/HandlerInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-127">
+          <caret line="75" column="17" selection-start-line="75" selection-start-column="17" selection-end-line="75" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-web/src/main/java/com/jt/config/MvcConfigurer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-web/src/main/java/com/jt/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="94" column="46" selection-start-line="94" selection-start-column="46" selection-end-line="94" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-order/src/main/java/com/jt/App.java" />
+    <entry file="file://$PROJECT_DIR$/jt-common/src/main/java/com/jt/service/DubboUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-cart/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-cart/src/main/java/com/jt/SpringBootRun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/java/com/jt/SpringBootRun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-sso/src/main/java/com/jt/SpringBootRun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-web/src/main/java/com/jt/SpringBootRun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-cart/src/main/resources/properties/redis.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-common/src/main/java/com/jt/pojo/OrderShipping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/repository/org/springframework/spring-core/5.1.5.RELEASE/spring-core-5.1.5.RELEASE-sources.jar!/org/springframework/cglib/proxy/MethodProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="217" selection-start-line="217" selection-end-line="217" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-order/src/main/resources/mybatis/mappers/OrderShippingMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-order/src/main/resources/mybatis/mappers/OrderMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-common/src/main/java/com/jt/pojo/OrderItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-order/src/main/resources/mybatis/mappers/OrderItemMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-web/src/main/java/com/jt/util/UserThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-web/src/main/java/com/jt/controller/ItemController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="29" column="49" lean-forward="true" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-common/src/main/java/com/jt/pojo/ItemDesc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-common/src/main/java/com/jt/pojo/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-cart/src/main/java/com/jt/mapper/CartMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-cart/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-order/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-order/src/main/java/com/jt/mapper/OrderShippingMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="69" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-order/src/main/java/com/jt/mapper/OrderMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-order/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-order/src/main/resources/properties/redis.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-order/src/main/java/com/jt/mapper/OrderItemMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-web/src/main/webapp/WEB-INF/views/cart.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="28" column="37" lean-forward="true" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-web/src/main/webapp/WEB-INF/views/order-cart.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="30" column="33" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/repository/org/springframework/spring-web/5.1.5.RELEASE/spring-web-5.1.5.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="137" selection-start-line="137" selection-end-line="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/repository/org/springframework/spring-webmvc/5.1.5.RELEASE/spring-webmvc-5.1.5.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/repository/org/springframework/spring-webmvc/5.1.5.RELEASE/spring-webmvc-5.1.5.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/AbstractHandlerMethodAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.16/tomcat-embed-core-9.0.16-sources.jar!/org/apache/catalina/connector/RequestFacade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="754" selection-start-line="754" selection-end-line="754" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/repository/org/springframework/spring-webmvc/5.1.5.RELEASE/spring-webmvc-5.1.5.RELEASE-sources.jar!/org/springframework/web/servlet/support/WebContentGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="377" selection-start-line="377" selection-end-line="377" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/repository/org/springframework/spring-webmvc/5.1.5.RELEASE/spring-webmvc-5.1.5.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="784" selection-start-line="784" selection-end-line="784" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/repository/com/alibaba/dubbo/2.6.2/dubbo-2.6.2-sources.jar!/com/alibaba/dubbo/rpc/proxy/InvokerInvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-common/src/main/java/com/jt/service/DubboCartService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-cart/src/main/java/com/jt/service/impl/DubboCartServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-web/src/main/java/com/jt/intercepter/UserInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="72" column="44" selection-start-line="72" selection-start-column="44" selection-end-line="72" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-web/src/main/java/com/jt/controller/CartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144">
+          <caret line="45" column="63" selection-start-line="45" selection-start-column="63" selection-end-line="45" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-web/src/main/java/com/jt/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="62" column="52" lean-forward="true" selection-start-line="62" selection-start-column="52" selection-end-line="62" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-common/src/main/java/com/jt/service/DubboOrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-web/src/main/webapp/WEB-INF/views/success.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-819" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-order/src/main/java/com/jt/service/impl/DubboOrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="60" column="34" lean-forward="true" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="156" column="21" lean-forward="true" selection-start-line="156" selection-start-column="21" selection-end-line="156" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-order/src/main/java/com/jt/conf/OrderQuartzConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-order/src/main/java/com/jt/quartz/OrderQuartz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="38" column="58" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-order/src/main/java/com/jt/SpringBootRun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>jt-manage:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (jt-manage)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web|jt-manage</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

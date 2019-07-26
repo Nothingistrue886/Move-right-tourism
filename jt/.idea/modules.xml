@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jt.iml" filepath="$PROJECT_DIR$/jt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jt-cart/jt-cart.iml" filepath="$PROJECT_DIR$/jt-cart/jt-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jt-common/jt-common.iml" filepath="$PROJECT_DIR$/jt-common/jt-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jt-manage/jt-manage.iml" filepath="$PROJECT_DIR$/jt-manage/jt-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jt-order/jt-order.iml" filepath="$PROJECT_DIR$/jt-order/jt-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jt-sso/jt-sso.iml" filepath="$PROJECT_DIR$/jt-sso/jt-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jt-web/jt-web.iml" filepath="$PROJECT_DIR$/jt-web/jt-web.iml" />
+    </modules>
+  </component>
+</project>
